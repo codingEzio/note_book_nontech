@@ -1,4 +1,5 @@
 ### Status 
+- [ ] 经济学通识课
 - [ ] The Kite Runner
 - [x] 皮囊
 - [ ] The Psychopath Whisperer
