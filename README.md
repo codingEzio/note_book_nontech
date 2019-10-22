@@ -2,6 +2,7 @@
 - Still reading *TONS OF BOOKS*, but the notes haven't been edited yet.
 
 ### Progress 
+- [ ] Climate Leviathan
 - [x] 乡下人的悲歌
 - [ ] 经济学通识课
 - [ ] The Kite Runner
