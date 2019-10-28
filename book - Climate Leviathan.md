@@ -1,6 +1,51 @@
-| 標題 | 副標題 | 作者 | 出版時間 | 購買鏈接 |
-| :---: | :---: | :---: | :---: | :---: | 
-| *Climate Leviathan* | A Political Theory of Our Planetary Future | Geoff Mann & Joel Wainwright | *2018.02* | [Buy here](https://www.versobooks.com/books/2545-climate-leviathan) | 
+|        Title        |                  Subtitle                  |            Author            | Publish Date |                                Link                                 |
+| :-----------------: | :----------------------------------------: | :--------------------------: | :----------: | :-----------------------------------------------------------------: |
+| _Climate Leviathan_ | A Political Theory of Our Planetary Future | Geoff Mann & Joel Wainwright |  _2018.02_   | [Buy here](https://www.versobooks.com/books/2545-climate-leviathan) |
 
----------
+---
 
+### The purpose of this book
+
+1. Why that wealthy minority did nothing, and what that means for our political futures, are crucial questions we address in this book.
+2. This book offers a political theory of our planetary future. Our work on these ideas began in the heady days before the 2009 Copenhagen climate summit, a time when we each spoke publicly on these matters. This project emerged as an attempt at self-critique and clarification from within the climate justice movement.
+3. Our point is not that global warming will simply cause everything to change or collapse. Instead, we argue that under pressure from climate change, the intensification of existing challenges to the extant global order will push existing forms of sovereignty toward one we call “planetary.”
+4. Much of this work has been inspired by Agamben’s claim that “the declaration of the state of exception has gradually been replaced by an unprecedented generalization of the paradigm of security as the normal technique of government.” The ecological crisis has been largely excluded from this discussion. This is a pity because the regulation of security under exceptional conditions is increasingly a planetary matter.
+5.
+
+-----
+
+### The *big* questions
+- To begin, consider two very difficult clusters of questions.
+    > First, if the world is to achieve the massive reductions in global carbon emissions we know are necessary, how might we do so? What political processes or strategies could make that happen in anything resembling a just manner? In other words, can we conceive of revolution(s) in the name of climate justice, and if so, what do they look like?  
+    
+    > Second, if carbon emissions do not decline adequately (as seems highly likely to us, for reasons explained below), and climate change reaches some threshold or tipping point at which it is globally impossible to ignore or reverse, then what are the likely political-economic outcomes? What processes, strategies, and social formations will emerge and become hegemonic? Can the defining political-economic formation of the modern world—the capitalist nation-state—survive catastrophic climate change? If so, how, and in what form? Do we have a theory of how capitalist nation-states are transforming as a consequence of planetary change?
+- It will be useful to begin to lay the ground for our theoretical framework by identifying four core propositions upon which we build our argument.
+    > 1. There is no legitimate basis for debating climate change as such. The climate is changing because of anthropogenic modification of the chemical composition of our atmosphere. The knowledge we have of these changes, distilled from scientific research, is crucial for calibrating our understanding of the future, and we should support further scientific analysis. At the same time, we must beware of expecting too much from science politically.  
+
+    > 2. Rapid climate change is sure to have dreadful and often deadly consequences, particularly for the relatively weak and the marginalized (both human and nonhuman). A political or ethical analysis is therefore of the utmost urgency.
+
+    > <small>(Just saying)</small> The authors cited in the past few pages all agree with these first two points. Important divergences stem from the third and fourth.
+
+    > 3. The political-ecological conditions within which decisions about climate change are being (and will be) made are marked fundamentally by uncertainty and fear; there are no real climate decisions, only reactions. Humanity may or may not have time to drastically mitigate carbon and, therefore, slow climate change. Given the complexity of the world’s climatic system, however, we can only ever know this retrospectively. We assume that we may not yet be past the point where rapid climate change is unstoppable; however, as we will elaborate, there are strong political- economic reasons to believe that we are not going to avoid this fate. In other words, we agree with *Jamieson* and *Scranton* <small>(this book mentioned their views in the previous part)</small> —and others, like *Alyssa Battistoni* and *Andreas Malm* —that the time has come for an analysis that anticipates (even as it fights against) a rapidly warming world.
+
+    > 4. The elite transnational social groups that dominate the world’s capitalist nation-states certainly desire to moderate and adapt to climate change— not least to stabilize the conditions that produce their privileges. And yet, to date, they have failed to coordinate a response.26 Thus climate change poses direct and indirect challenges to their hegemony, processes of accumulation, and modes of governance. In light of this, we must expect that elites will increasingly attempt to coordinate their reactions, all while sailing seas of uncertainty and incredulity.
+
+-----
+
+### The rest of them
+
+1. The increasing proportion of certain trace gases in the Earth’s atmosphere (in round numbers, carbon dioxide [CO2] has risen from 250 to 400 parts per million, methane [CH4] from 700 to 1700 parts per billion) means a larger proportion of the sun’s energy remains in the Earth’s seas, land masses, and atmosphere, changing the movement of heat energy through the world’s climatic system.
+2. The vast proportion of historical greenhouse gases have been emitted as **byproducts of the choices and activities**, not of the masses of ordinary people, but rather of a wealthy minority of the world’s people.
+3. The world is getting hotter fast, and the rapid, large-scale carbon mitigation the world needs is impossible without radical change in the existing political-economic structure.
+4. Unfortunately, the prospect of rapid environmental change has generally produced an insufficient theoretical response among mainstream “progressive” thinkers. Most of it is pious utopianism (“ten simple ways to save the planet”), an appeal to market solutions (“cap and trade”), or nihilism (“we’re fucked”). These are false solutions.
+5. the Left has rarely done much better, too often treating the climate as peripheral to struggles for democracy, liberty, equality, and justice, when it is precisely these ideals that make the climate struggle so fundamental. They are the core goals of the struggle for justice in a world that will be radically transformed by climate change.
+6. Consequently, our goal is to make climate more political. That requires a theory—a way to conceptualize our conjuncture and understand the relationship between the categories we use to make sense of it ... That kind of theory should embrace science’s analysis of environmental change but not expect too much of it politically; it should try to understand the world’s possible political-ecological futures without lapsing into environmental determinism; and it should anticipate the coming socio-ecological transformations as a moment of transition in natural history. We offer this book as a contribution toward that theory and the struggles it might inform.
+7. Anyone who spends some of their time thinking about climate change and about the politics of the world it is producing (and there are a lot of people like that) knows that the going is often tough, the future looks very bleak, and the nights are sometimes sleepless. At times, it is hard not to want to hide away. The more one knows and the longer one stares into the abyss, the more one may be tempted to abandon all hope.
+8. What will become of sovereign security under conditions of planetary crisis? Is a warming planet “fierce enough to rouse” Leviathan? Or will Leviathan “beg for mercy”?
+9. Capital’s drive for profit locks in policies for growth, whatever the cost. One clear signal since 2007–2008 is that elites everywhere, faced with prospects of slow economic growth, are prepared to act swiftly and commit bottomless public funding to prime the pump. The need for profit also locks in infrastructure with devastating climatic implications.
+10. In 2012 the International Energy Agency, hardly a revolutionary outfit, warned that without a change of direction, by 2017 the world would have energy infrastructure that “locked in” emissions at a scale that closed “the door” on the possibility of limiting global warming to non-disastrous levels.
+11. The political problems we face cannot be fixed by simply delivering science to the masses. If good climate data and models were all that were needed to address climate change, we would have seen a political response in the 1980s. Our challenge is closer to a crisis of imagination and ideology; people do not change their conception of the world just because they are presented with new data. 
+12. Despite the many dire signals, most people in the global North still find comfort in the belief that the worst consequences — scarcity of food and water, political unrest, inundations and other so-called “natural disasters” are far enough away or far enough in the future that they will not live to experience them.
+13. On one hand, the almost imperceptible background noise of rising seas and upward ticking of food prices, punctuated, on the other hand, by the occasional pounding of stochastic events. ... There is no part of the world that has not changed dramatically. Yet as soon as unheralded events occur— wildfires in Russia and Canada, floods in Pakistan and England, coral bleaching in Australia and Belize, species declining everywhere—they are rinsed and lost by the quotidian wash of whatever comes next. The biggest events have a sound of their own, the high-pitched scream of emergency. But because the background noise ultimately is this emergency in latent form, the true tone of climate change is not yet properly heard.
+14.  Consider the Arctic, which concentrates all the contradictions of our conjuncture into one geographical region. Warming has reduced the polar ice cap so rapidly that we can expect ice-free ship passage by 2030.
+15.  The coming crisis is not “unmanageable”; it is already here, already being managed by liberal capitalism (if rather badly). Indeed, the very “manageability” of the crisis is part of the problem we face. To address it, we do not need to learn to die, but to think, live, and rebel. 
